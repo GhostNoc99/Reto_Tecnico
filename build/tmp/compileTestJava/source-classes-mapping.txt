@@ -1,0 +1,12 @@
+co/sqasa/runners/testRunner.java
+ co.sqasa.runners.testRunner
+co/sqasa/userinterfaces/NotepadPage.java
+ co.sqasa.userinterfaces.NotepadPage
+co/sqasa/task/CrearNota.java
+ co.sqasa.task.CrearNota
+co/sqasa/task/AbrirPagina.java
+ co.sqasa.task.AbrirPagina
+co/sqasa/StepDef/TestStepDefinition.java
+ co.sqasa.StepDef.TestStepDefinition
+co/sqasa/task/VerificarNota.java
+ co.sqasa.task.VerificarNota

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Crear una nota de texto enriquecido con letra en negrita" skipped="0" tests="1" time="1.73" timestamp="2023-09-18 03:46:41"><testcase name="Crear una nota con letra en negrita"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+co.sqasa.task.AbrirPagina.performAs(AbrirPagina.java:20)&#13;
+co.sqasa.StepDef.TestStepDefinition.que_estoy_en_la_pagina_de_notas(TestStepDefinition.java:17)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
